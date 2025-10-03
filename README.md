@@ -1,29 +1,23 @@
-# FUTURE_PE_02
-**Future Interns — Prompt Engineering Internship (Task 2)**  
-**Task:** AI-Powered Blog Generator
+# FUTURE_PE_02 – AI-Powered Website using Wix AI
 
-## 📌 Project Overview
-This project builds a prompt chain to generate a long-form, SEO-optimized blog post (1000–2000 words) on a chosen topic. Deliverables include the documented prompt chain, final blog post, SEO metadata, and image suggestions.
+## 🌐 Live Website
+[Visit my site here](https://manidhargroup12.wixsite.com/manidhar-ai-hub)
 
-## 🛠 Tools Used
-- ChatGPT / OpenAI (content generation & prompt engineering)
-- Notion / Google Docs (drafting & notes)
-- Canva / DALL·E / MidJourney (image suggestions / thumbnails)
-- WordPress / Medium (optional: publishing)
+## 🛠️ Tools Used
+- **Wix AI** → Website generation + layout design
+- **ChatGPT** → Content generation (homepage, about, blog posts)
+- **Wix Chat** → AI-powered chatbot integration
+- **Canva** → Screenshots editing (optional)
 
-## 📂 Deliverables
-- `prompt_chain.md` → Documentation of prompts, outputs, and selection notes.  
-- `blog_final.md` → Final long-form blog (1000–2000 words), with headings and internal links.  
-- `seo.md` → Meta description, target keywords, suggested alt text for images.  
-- `images/` → Example images or links (optional)  
-- `README.md` → Project overview (this file)
+## 📌 Features
+- AI-generated content and professional design
+- "About Me" page with AI avatar
+- Blog section with internship task writeups
+- Portfolio section showcasing Task 1 & Task 2
+- Integrated chatbot for interactive experience
 
-## 🚀 How It Works (workflow)
-1. Choose a precise blog topic and target audience.  
-2. Generate multiple title options using prompt chains.  
-3. Create a detailed outline (H2/H3 structure) and image suggestions.  
-4. Expand the outline into a full blog draft (1000–2000 words).  
-5. Produce SEO elements: meta description, focus keywords, alt text.  
-6. Final edit & formatting, then publish (optional).
+## 📷 Screenshots
+(Add screenshots here: Homepage, About Me, Blog, Projects, Chatbot)
 
-## 📋 Suggested File Structure
+## 📝 Internship Note
+This project was created as **Task 2** of my Prompt Engineering Internship with Future Interns.
